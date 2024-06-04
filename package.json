@@ -1,0 +1,11 @@
+{
+    "name": "web",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "Hello world"
+    },
+    "author": "Jakub",
+    "license": "GNU"
+  }
